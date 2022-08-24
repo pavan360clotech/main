@@ -1,6 +1,6 @@
 @isTest
 public class AccountTrigger_Test {
-    
+    String Acc;
     @isTest static void address()
     {
         List<Account> accs = new List<Account>();
